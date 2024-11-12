@@ -2,3 +2,9 @@ Mise à jour de fichier1 avec du contenu
 supplémentaire
 
 Test pour la nouvelle branche
+
+Optimisation 1 
+
+Optimisation 2
+
+Optimisation 3
