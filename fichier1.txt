@@ -1,2 +1,4 @@
 Mise à jour de fichier1 avec du contenu
 supplémentaire
+
+Test pour la nouvelle branche
