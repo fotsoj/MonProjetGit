@@ -1,1 +1,1 @@
-Amélioration de fichier2
+Ajout d'une ligne supplémentaire dans fichier2
