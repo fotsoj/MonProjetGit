@@ -1,1 +1,4 @@
 Ligne ajoutée par feature-a
+
+Ligne ajoutée par la feature-b
+
